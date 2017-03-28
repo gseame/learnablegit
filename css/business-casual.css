@@ -190,3 +190,7 @@ footer p {
         clear: both;
     }
 }
+
+#footertext{
+    text-size:22px;
+}
